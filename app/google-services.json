@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "258575735026",
+    "project_id": "arrendo-397d0",
+    "storage_bucket": "arrendo-397d0.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:258575735026:android:1d2a711535e73328e1586b",
+        "android_client_info": {
+          "package_name": "com.example.arrendo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCALS19x8f5vwdCd1mqdax6S16MTb67piw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
